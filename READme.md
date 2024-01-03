@@ -1,13 +1,9 @@
-This version of the WebScraper scrapes links from a google search given by a user prompt
+Welcome to the Neural Network Parallels Chatbot Backend – the engine driving our project's rapid and precise responses to college football inquiries. 
 
-Using a chrome webdriver using a headless browser to load the webpage in html and uses beautiful soup to parse the links.
+We have collaborated as a team to ensure seamless API integration, advanced NLP capabilities, and a scalable architecture for optimal performance of this chatbot.
 
-Not completely sure if this goes against Google TOS
-
-Looking into using googles custom search json api; it could be more efficient and more in line with google tos..
+Feel free to clone and contribute on your own.
 
 
 
-files main_database, add_data, embedd, and access_database all are related to the vector database
 
-Here we have the ability to add embeddings to a database, embed our own data, make our database (locally here), and use semantic search on our database based on a query.
