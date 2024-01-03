@@ -6,9 +6,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-client = OpenAI(api_key='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') #not secure but whatever
-# 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 - tony
-# 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 - key 2
+client = OpenAI(api_key='<place your own API Key>')
 
 # Set your API key here (if not using an environment variable)
  #not secure but whatever
